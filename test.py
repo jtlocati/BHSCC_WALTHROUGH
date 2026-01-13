@@ -64,7 +64,7 @@ name = "jet"
 print(i)"""
 
 
-"""password = ""
+password = ""
 trys = 0
 IsFalse = True
 
@@ -73,11 +73,11 @@ while password != 6767:
     trys += 1
     if(trys == 5):
         print("max trys has been reached")
-        IsFalse == False
+        IsFalse = False
         break
 
 if (IsFalse):
-    print("Access Granted")"""
+    print("Access Granted")
 
 
 """List = [1, 2, 3, 4, 5, 6, 7]
@@ -102,8 +102,8 @@ print(greet(name, age))"""
 numbers = functions.add(12, 40)
 print(numbers)"""
 
-import cowsay
+"""import cowsay
 
 user = input("Enter a sentance: ")
 cowsay.cow(user)
-cowsay.trex("hello")
+cowsay.trex("hello")"""
